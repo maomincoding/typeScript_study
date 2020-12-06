@@ -1,3 +1,5 @@
+# Interface接口
+
 1. `interface`与`type` 相类似，但并不完全一致。`interface`可以定义对象（属性和方法）和函数类型。`type`定义基础类型。
 
 2. `interface`接口使用`[propName:string]:any`可以代表其他任何类型的属性。

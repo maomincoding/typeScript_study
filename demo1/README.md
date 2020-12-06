@@ -1,1 +1,2 @@
+# TypeScript
 在typescript 中 类型是静态类型，而在javascript中是动态类型。另外typescript不能直接在浏览器运行，需要经过编译成javascript 才能运行。
