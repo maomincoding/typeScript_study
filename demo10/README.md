@@ -1,0 +1,1 @@
+# 静态属性，Setter和Getter
