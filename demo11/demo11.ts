@@ -22,3 +22,24 @@ class P3 {
 const p3 = new P3("maomin");
 // p3.name = 'xqm';
 console.log(p3.name);
+
+// 抽象类
+// 就是把类中一些共用的方法抽离出来，抽象类不能被实例化，只能被继承。
+
+abstract class Geom {
+  width:number;
+  getType(){
+    return 'Geom';
+  }
+  abstract getArea():number;
+}
+// 类1
+class Circle extends Geom{
+  getArea(){
+    return 123
+  }
+}
+// 类2
+class Square {
+
+}
