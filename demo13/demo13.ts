@@ -1,3 +1,5 @@
+// 联合类型
+
 interface Bird {
   fly:boolean;
   sing:() => {
