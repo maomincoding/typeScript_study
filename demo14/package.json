@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "ts-node ./demo14.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.4"
+  }
+}
