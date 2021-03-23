@@ -24,4 +24,4 @@ function testDecorator1(constructor: any) {
 class Test {}
 
 const test = new Test();
-//(test as any).getName();
+// (test as any).getName();
