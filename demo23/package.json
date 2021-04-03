@@ -1,0 +1,15 @@
+{
+  "name": "demo23",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+    "scripts": {
+      "dev": "ts-node ./src/index.ts"
+    },
+  "devDependencies": {
+    "ts-node": "^9.1.1"
+  },
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}
